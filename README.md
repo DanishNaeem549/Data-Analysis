@@ -6,3 +6,5 @@ for creating the environment you want to download the conda and jupeter notebook
 and also install libraries like pandas, Numpy, matplotlib and seaborn 
 
 I also add some of my practice project because I think best way of learning is practice
+
+
