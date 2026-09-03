@@ -8,4 +8,6 @@ and also install libraries like pandas, Numpy, matplotlib and seaborn
 
 I also add some of my practice project because I think best way of learning is practice
 
+# project 1 (ML Model)
+
 
