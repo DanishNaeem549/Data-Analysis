@@ -8,6 +8,11 @@ and also install libraries like pandas, Numpy, matplotlib and seaborn
 
 I also add some of my practice project because I think best way of learning is practice
 
-# project 1 (ML Model)
+# project 1 (RandomForestclassifier model)
+# project 2 (RandomforestRegessor model)
+# project 3 (Tensorflow) -> Deep learning concept:
+  understand the nerual networks
+  Deep learning 
+  
 
 
