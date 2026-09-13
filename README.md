@@ -13,6 +13,6 @@ I also add some of my practice project because I think best way of learning is p
 # project 3 (Tensorflow) -> Deep learning concept:
   understand the nerual networks
   Deep learning 
-  
+
 
 
